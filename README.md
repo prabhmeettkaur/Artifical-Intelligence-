@@ -7,6 +7,7 @@ The way it works is: It will be taking input from the user about the source and
 destination and will be using different algorithms (while keeping in mind the
 traffic condition and speed limit of each path) to predict the path that will be
 quickest and most efficient for the user to reach the destination.
+This AI-based project uses the A*,BFS,GENETIC and SIMULATED ANNEALING algorithms to find the fastest route between two locations. This type of system could be helpful for drivers, delivery companies, and other entities that need to determine the fastest way to get from one place to another.
 
 - Lab Assignments (Python)
 
