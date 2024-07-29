@@ -1,2 +1,2 @@
-# Artifical-Intelligence-
+# Artifical-Intelligence
 - AI project ie MC-FPA
